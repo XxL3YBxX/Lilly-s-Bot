@@ -1,0 +1,6 @@
+﻿token=NzQ5OTQ5NTEyOTIzMDg2ODc5.X0za6Q.VyZBrZmKB4rEc7jr31LQOFu4Gbk 
+owner=559842906316472325 
+prefix= 
+game= مساعدة
+stayinchannel=true
+songinstatus=true 
